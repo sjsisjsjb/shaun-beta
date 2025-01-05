@@ -50,7 +50,7 @@ global.chatgpt = true // false = off, true = on
 global.saluran = '𝙹𝚘𝚒𝚗 𝙼𝚢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🎐' // Opsional 
 global.idsal = "120363285464032065@newsletter" // Opsional
 global.botname = 'Shun Ai' // Ini nama bot
-global.bottz = '6281266840823' // Ganti dengan nomor bot untuk mendapatkan code pairing 
+global.bottz = '623117935306' // Ganti dengan nomor bot untuk mendapatkan code pairing 
 global.packname = 'Shun Ai' // wm sticker
 global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nCreator: g.dev/hardi \nBot: 0812-6684-0823` // wm sticker
 global.prefa = ['','!','.',',','🐤','🗿']
